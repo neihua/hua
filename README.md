@@ -6,4 +6,5 @@ vless://1ea3e865-29a0-232c-c4f4-c4d9498304da@104.21.229.180:443?flow=xtls-rprx-d
 
 socks://OkBtZWFsOS5oZXJva3VhcHAuY29tOjQ0Mw==
 
-vless://1ea3e865-29a0-232c-c4f4-c4d9498304da@yu53.herokuapp.com:443?flow=xtls-rprx-direct&encryption=none&security=tls&type=ws&host=restless-silence-7c0f.neilhua.workers.dev&path=1ea3e865-29a0-232c-c4f4-c4d9498304da-vless#yu53.herokuapp.com
+vless://1ea3e865-29a0-232c-c4f4-c4d9498304da@104.21.238.15:443?flow=xtls-rprx-direct&encryption=none&security=tls&type=ws&host=restless-silence-7c0f.neilhua.workers.dev&path=1ea3e865-29a0-232c-c4f4-c4d9498304da-vless#yu53.herokuapp.com
+
